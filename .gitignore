@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# YOLO model weights (downloaded automatically on first run)
+*.pt
+
+# SQLite databases (CSV files are included instead)
+*.db
+
+# Root-level chart duplicates (use output/daytime/ and output/evening/ instead)
+output/*.png

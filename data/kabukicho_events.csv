@@ -1,0 +1,11 @@
+id,timestamp,window_start,event_type,severity,description,metric_name,metric_value,threshold
+,2026-05-21T01:24:48.490977+00:00,2026-05-14T03:39:29.695513+00:00,GENDER_SKEW,INFO,Extreme male dominance: 98% male in this window,male_ratio,0.978,0.95
+,2026-05-21T01:24:48.491558+00:00,2026-05-14T03:39:59.855969+00:00,ACTIVITY_CHANGE,MEDIUM,Activity changed: MODERATE → QUIET,activity,,
+,2026-05-21T01:24:48.492012+00:00,2026-05-14T03:41:30.246539+00:00,GENDER_SKEW,INFO,Extreme male dominance: 96% male in this window,male_ratio,0.964,0.95
+,2026-05-21T01:24:48.492368+00:00,2026-05-14T03:42:30.766615+00:00,CROWD_PEAK,HIGH,Peak crowd in a single frame: 13 people  (avg this window: 9.2),crowd_max,13,12
+,2026-05-21T01:24:48.492634+00:00,2026-05-14T03:42:30.766615+00:00,LARGE_GROUP,INFO,New largest group detected: 9 people moving together,largest_group,9,8
+,2026-05-21T01:24:48.492985+00:00,2026-05-14T03:44:01.619089+00:00,ACTIVITY_CHANGE,MEDIUM,Activity changed: MODERATE → QUIET,activity,,
+,2026-05-21T01:24:48.493224+00:00,2026-05-14T03:44:31.654007+00:00,GENDER_SKEW,INFO,Extreme male dominance: 97% male in this window,male_ratio,0.973,0.95
+,2026-05-21T01:24:48.493458+00:00,2026-05-14T03:45:01.733177+00:00,CROWD_PEAK,HIGH,Peak crowd in a single frame: 12 people  (avg this window: 7.9),crowd_max,12,12
+,2026-05-21T01:24:48.493784+00:00,2026-05-14T03:47:32.842071+00:00,CROWD_PEAK,HIGH,Peak crowd in a single frame: 12 people  (avg this window: 7.5),crowd_max,12,12
+,2026-05-21T01:24:48.493951+00:00,2026-05-14T03:47:32.842071+00:00,LARGE_GROUP,INFO,New largest group detected: 10 people moving together,largest_group,10,8
